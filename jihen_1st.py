@@ -1,4 +1,3 @@
-%%writefile jihen_1st.py
 import streamlit as st
 import pandas as pd
 
